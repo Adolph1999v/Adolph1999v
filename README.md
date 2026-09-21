@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Adolph Vijay 👋
 
-<!--
-**Adolph1999v/Adolph1999v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied AI Developer building RAG systems, local LLM workflows,
+AI-powered tools, and polished web products.
 
-Here are some ideas to get you started:
+## Focus
+- Retrieval-augmented generation (RAG) and vector search
+- Local LLM training, deployment, and inference
+- AI-powered tools and workflow automation
+- Production-minded React applications and APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+- [AI Talent Scout](YOUR_LINK) — RAG-powered candidate discovery and ranking
+- [Portfolio](https://adolph-vijay.pages.dev) — My work, technical range, and contact details
+
+## Connect
+- Portfolio: https://adolph-vijay.pages.dev
+- LinkedIn: YOUR_LINK
