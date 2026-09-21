@@ -15,4 +15,4 @@ AI-powered tools, and polished web products.
 
 ## Connect
 - Portfolio: https://adolph-vijay.pages.dev
-- LinkedIn: [YOUR_LINK](https://www.linkedin.com/in/adolph-vijay-94a335172/)
+- LinkedIn: [open](https://www.linkedin.com/in/adolph-vijay-94a335172/)
