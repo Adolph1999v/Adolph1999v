@@ -12,12 +12,6 @@ I’m an **Applied AI Engineer** building systems across retrieval, local infere
 - 🤝 I’m open to AI engineering roles, startup collaborations, and selected freelance projects
 - 📫 Reach me at **[adolphvijay@gmail.com](mailto:adolphvijay@gmail.com)**
 
-## Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-adolph--vijay.pages.dev-20C5E8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adolph-vijay.pages.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adolph_Vijay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adolph-vijay-94a335172/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adolphvijay@gmail.com)
-
 ## Languages and Tools
 
 <p>
@@ -86,3 +80,10 @@ An AI-powered talent discovery and engagement system that:
 **Stack:** React · Vite · FastAPI · Uvicorn · FAISS · sentence-transformers · Groq · Hugging Face Spaces · Vercel
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://talentscout-nine.vercel.app/)
+
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-adolph--vijay.pages.dev-20C5E8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adolph-vijay.pages.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adolph_Vijay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adolph-vijay-94a335172/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adolphvijay@gmail.com)
