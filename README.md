@@ -70,20 +70,5 @@ I’m an **Applied AI Engineer** building systems across retrieval, local infere
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-## Featured Project
 
-### [AI Talent Scout](https://github.com/Adolph1999v/talent-scout)
-
-An AI-powered talent discovery and engagement system that:
-
-- Accepts a job description and retrieves matching candidates using RAG
-- Combines FAISS vector search with sentence-transformer embeddings
-- Simulates recruiter–candidate conversations to assess genuine interest
-- Ranks candidates using match and interest scores
-- Supports live PDF and text CV uploads with immediate indexing
-- Uses a multi-model fallback chain to remain available during rate limits
-
-**Stack:** React · Vite · FastAPI · Uvicorn · FAISS · sentence-transformers · Groq · Hugging Face Spaces · Vercel
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://talentscout-nine.vercel.app/)
 
